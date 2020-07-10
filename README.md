@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a CS student from France.
+Don't ask me to do designs, I'm bad at it.
 
 <!--
 **AvaN0x/AvaN0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
