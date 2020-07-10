@@ -1,19 +1,20 @@
-### Hi there 👋
-I'm a CS student from France.
+## Hi there 👋
 
-Don't ask me to do designs, I'm bad at it.
+🎓 I'm a French CS student.
 
-<!--
-**AvaN0x/AvaN0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📝 Doing stuff for myself and for school. Take a look at my [repositories](https://github.com/AvaN0x?tab=repositories).
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ❤ Beloved language : [C#](https://github.com/AvaN0x?tab=repositories&q=&type=&language=c%23)
+* 💻 Backend > Frontend
+
+### Find me
+
+* GitHub (obviously) : [AvaN0x](https://github.com/AvaN0x)
+* Discord : AvaN0x#6348 on [my guild](https://discord.gg/uDPqGyQ)
+* Youtube : [AvaN0x / Clément](https://www.youtube.com/channel/UCQH3XHpnUK1K_qaKrFmEtIw)
+* Twitter : [@ClemAvaN0x](https://twitter.com/ClemAvaN0x)
+* <https://avan0x.github.io/>
+
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
