@@ -18,4 +18,4 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
-Thanks to [OxyTom](https://github.com/oxypomme) for the readme template. 👀
+Thank to [OxyTom](https://github.com/oxypomme) for the readme template. 👀
