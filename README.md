@@ -17,5 +17,3 @@
 * <https://avan0x.github.io/>
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
-
-Thank to [OxyTom](https://github.com/oxypomme) for the readme template. 👀
