@@ -16,4 +16,7 @@
 * Twitter : [@ClemAvaN0x](https://twitter.com/ClemAvaN0x)
 * <https://avan0x.github.io/>
 
+![AvaN0x github stats](https://github-readme-stats.vercel.app/api?username=avan0x&show_icons=true&count_private=true&hide_rank=true&hide_border=true&theme=dark)
+
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+
