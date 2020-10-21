@@ -16,7 +16,7 @@
 * Twitter : [@ClemAvaN0x](https://twitter.com/ClemAvaN0x)
 * <https://avan0x.github.io/>
 
-![AvaN0x github stats](https://github-readme-stats.vercel.app/api?username=avan0x&show_icons=true&count_private=true&hide_rank=true&hide_border=true&hide=issues,prs,stars&theme=dark)
+![AvaN0x github stats](https://github-readme-stats.vercel.app/api?username=avan0x&show_icons=true&count_private=true&hide_rank=true&hide_border=true&hide=issues,prs,stars&theme=dark&icon_color=fff1b9)
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
