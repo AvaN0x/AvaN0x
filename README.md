@@ -6,7 +6,7 @@
 
 ### About me
 
-* ❤ Beloved language : [C#](https://github.com/AvaN0x?tab=repositories&q=&type=&language=c%23) (others are cool too)
+* ❤ Kinda like web (software is nice too)
 * 💻 Backend is cool, Frontend is not bad
 
 ### Find me
