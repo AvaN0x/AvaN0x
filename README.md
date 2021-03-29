@@ -11,7 +11,7 @@
 
 ### Find me
 
-* Discord : AvaN0x#6348 on [my guild](https://discord.gg/uDPqGyQ)
+* Discord : AvaN0x#6348 on [my guild](https://avan0x.github.io/#/discord)
 * Youtube : [AvaN0x / Clément](https://www.youtube.com/channel/UCQH3XHpnUK1K_qaKrFmEtIw)
 * Twitter : [@ClemAvaN0x](https://twitter.com/ClemAvaN0x)
 * <https://avan0x.github.io/>
